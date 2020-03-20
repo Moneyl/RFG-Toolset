@@ -1,1 +1,2 @@
-RFG Toolset
+# RFG Toolset
+A set of command line tools for the file formats of Red Faction Guerrilla. Uses [RfgTools](https://github.com/Moneyl/Rfg-Tools) for underlying file format code. This repo only contains the CLI code for each tool where the format read/write/edit code in RfgTools. See the [wiki](https://github.com/Moneyl/RFG-Toolset/wiki) for info on how to use each tool, and see [releases](https://github.com/Moneyl/RFG-Toolset/releases) for the newest versions.
